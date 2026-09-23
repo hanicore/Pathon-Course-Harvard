@@ -1,1 +1,2 @@
-for i in 
+for i in [o,1,2]
+print("meow")
